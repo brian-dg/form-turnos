@@ -14,7 +14,7 @@ este proyecto esta echo en react, se usan estilos tailwind css, se utilizan hook
 
 ### Instalación 🔧
 1-Crear una carpeta donde desea clonar el proyecto
-2-Abrir una consola de comando y ubicarse en la carpeta anteriormente creada luego clone el proyecto con el comado git clone "https://github.com/brian-dg/Llamada-api-clima.git"
+2-Abrir una consola de comando y ubicarse en la carpeta anteriormente creada luego clone el proyecto con el comado git clone https://github.com/brian-dg/form-turnos
 3-Una vez el proyecto ya clonado, pararse en la carpeta del proyecto y en la consola de comando ejecute el comando "npm install" para instalar las dependencias necesarias para que el proyecto corra.
 4- una vez terminado el proceso de instalacion ya puede ejecutar en comando npm start y se le abrira el proyecto en el navegador como LocalSHost
 
